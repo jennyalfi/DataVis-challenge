@@ -1,5 +1,5 @@
 # DataVis-challenge
-Week 5 homework
+Week 5 Challenge
 
 ## Background
 The project is to assist a a new pharmaceutical company that specializes in anti-cancer medications in analyzing their most recent animal study. In this study, 249 mice who were identified with SCC tumors received treatment with a range of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals’ drug of interest, Capomulin, against the other treatment regimens.
